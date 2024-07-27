@@ -1,0 +1,6 @@
+name = "llama3-1-ai-chat"
+main = "src/worker.js"
+compatibility_date = "2024-07-27"
+
+[ai]
+binding = "AI"
